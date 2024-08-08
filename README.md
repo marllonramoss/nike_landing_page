@@ -18,7 +18,7 @@ This project is a Nike landing page developed with **Next.js**, **React**, and *
 
 ## 📈 Live Preview
 
-You can view the project directly [here](YOUR-PROJECT-URL).
+You can view the project directly [here](https://nike-landing-page-eta-two.vercel.app/).
 
 ## 📧 Contact
 
